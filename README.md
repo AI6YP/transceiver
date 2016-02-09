@@ -9,6 +9,8 @@ RF transceiver ICs
 
 https://github.com/gnuradio
 
+http://gqrx.dk/
+
 https://github.com/EttusResearch
 
 https://github.com/myriadrf
