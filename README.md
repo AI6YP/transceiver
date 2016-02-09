@@ -7,8 +7,10 @@ RF transceiver ICs
 
 ## bookmarks
 
-https://github.com/myriadrf/STREAM
+https://github.com/EttusResearch
 
-http://sdr.osmocom.org/
+https://github.com/myriadrf
+
+http://sdr.osmocom.org
 
 
