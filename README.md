@@ -2,7 +2,7 @@
 
 SDR transceiver related bookmark
 
-## RF transceiver ICs
+## RF transceiver ICs (baseband output)
 
 | device | F<sub>min | F<sub>max | BW<sub>min | BW<sub>max | ADC IQ | DAC IQ | Package | $ | Datasheet |
 |--------|-----------|-----------|------------|------------|--------|--------|---------|---|-----------|
