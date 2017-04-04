@@ -38,4 +38,6 @@ https://github.com/myriadrf
 
 http://sdr.osmocom.org
 
+https://github.com/mossmann/hackrf
+
 
