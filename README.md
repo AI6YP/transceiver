@@ -18,7 +18,7 @@ RF transceiver related bookmark
 | device | F<sub>min | F<sub>max | bps<sub>min | bps<sub>max |  Package | $ | Datasheet |
 |--------|-----------|-----------|-------------|-------------|----------|---|-----------|
 | ADF7030-1 | 169M | 960M | 100 | 360K | 48LQFP | [5](https://www.digikey.com/product-detail/en/analog-devices-inc/ADF7030-1BCPZN/ADF7030-1BCPZN-ND/6163961) | [analog.com](http://www.analog.com/media/en/technical-documentation/data-sheets/ADF7030-1.pdf) |
-| cc1350 | 300M | 2.4G | | | | | [ti](http://www.ti.com/lit/ds/symlink/cc1350.pdf) |
+| cc1350 | 300M | 2.4G | | | 48VFQN | 9 | [ti](http://www.ti.com/lit/ds/symlink/cc1350.pdf) |
 
 
 
