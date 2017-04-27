@@ -11,7 +11,7 @@ RF transceiver related bookmark
 | AD9364 | 70M | 6G | 200K | 56M | 1x12 | 1x12 | 144CSP | [175](https://www.digikey.com/product-detail/en/AD9364BBCZ/AD9364BBCZ-ND/4747823) | [analog.com](http://www.analog.com/media/en/technical-documentation/data-sheets/AD9364.pdf) | P |
 | AD9371 | 300M | 6G | 8M | 100M | 2x12 | 2x12 | 196CSP | [340](https://www.digikey.com/product-detail/en/analog-devices-inc/AD9371BBCZ/AD9371BBCZ-ND/6163959) | [analog.com](http://www.analog.com/media/en/technical-documentation/data-sheets/AD9371.pdf) | JESD204B |
 | LMS6002D | 300M | 3.8G | 1.5M | 28M | 1x12 | 1x12 | 120DQFN | [35](http://www.digikey.com/product-detail/en/lime-microsystems-ltd/LMS6002DFN/1434-1000-1-ND/4177113) |[docs](https://github.com/myriadrf/LMS6002D-docs) | P |
-| LMS7002M | 100K | 3.8G | 1.5M | 56M | 2x12 | 2x12 | 261aQFN | [110](https://www.digikey.com/products/en/rf-if-and-rfid/rf-transceiver-ics/879?k=LMS7002M) |[docs](https://github.com/myriadrf/LMS7002M-docs) | P |
+| LMS7002M | 100K | 3.8G | 1.5M | 56M | 2x12 | 2x12 | 261aQFN | [110](https://www.digikey.com/products/en/rf-if-and-rfid/rf-transceiver-ics/879?k=LMS7002M) |[docs](https://github.com/myriadrf/LMS7002M-docs) | JESD207 |
 
 ## Full RF transceiver ICs
 
