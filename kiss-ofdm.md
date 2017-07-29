@@ -14,3 +14,7 @@ Keep it simple, stupid OFDM protocol.
  * 1/4 Guard Inteval
 
 [kiss-ofdm.grc](kiss-ofdm.grc)
+
+![Tx Block Diagram](kiss-ofdm-tx-bd.png)
+
+![Tx Plots](kiss-ofdm-tx-plots.png)

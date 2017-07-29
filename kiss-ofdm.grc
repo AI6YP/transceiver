@@ -159,7 +159,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(16, 200)</value>
+      <value>(10, 200)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -206,7 +206,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(240, 130)</value>
+      <value>(250, 130)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -253,7 +253,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(453, 152)</value>
+      <value>(458, 152)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -296,7 +296,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(341, 130)</value>
+      <value>(346, 130)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -394,7 +394,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(581, 146)</value>
+      <value>(586, 146)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -449,7 +449,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(480, 600)</value>
+      <value>(608, 450)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -508,7 +508,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(192, 346)</value>
+      <value>(181, 288)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -540,7 +540,7 @@
     </param>
     <param>
       <key>pilot_symbols</key>
-      <value>((-1, 1j), (1, -1j), (-1, 1j), (-1j, 1))</value>
+      <value>((-1, 0), (1, 0), (-1, 0), (-1, 0))</value>
     </param>
     <param>
       <key>sync_words</key>
@@ -575,7 +575,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(554, 360)</value>
+      <value>(522, 306)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -630,7 +630,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(378, 354)</value>
+      <value>(357, 296)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -713,7 +713,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(624, 661)</value>
+      <value>(752, 506)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -1000,7 +1000,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(624, 586)</value>
+      <value>(752, 442)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -1363,7 +1363,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(784, 53)</value>
+      <value>(778, 69)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -1702,7 +1702,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(37, 381)</value>
+      <value>(37, 322)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1729,7 +1729,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(229, 600)</value>
+      <value>(442, 450)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1764,7 +1764,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(21, 109)</value>
+      <value>(10, 109)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1792,7 +1792,7 @@
     </param>
     <param>
       <key>num_samps</key>
-      <value>10000</value>
+      <value>1000000</value>
     </param>
     <param>
       <key>type</key>
@@ -1815,7 +1815,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(736, 381)</value>
+      <value>(698, 322)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1842,7 +1842,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(810, 152)</value>
+      <value>(778, 152)</value>
     </param>
     <param>
       <key>_rotation</key>
