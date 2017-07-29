@@ -12,4 +12,4 @@ Keep it simple, stupid OFDM protocol.
  * IFFT
  * 1/4 Guard Inteval
 
-https://github.com/drom/transceiver/blob/master/kiss-ofdm.grc
+[kiss-ofdm.grc](kiss-ofdm.grc)
