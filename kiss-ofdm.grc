@@ -905,7 +905,7 @@
     </param>
     <param>
       <key>name</key>
-      <value>""</value>
+      <value>IF</value>
     </param>
     <param>
       <key>nconnections</key>
@@ -1000,7 +1000,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(752, 442)</value>
+      <value>(752, 408)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -1264,7 +1264,7 @@
     </param>
     <param>
       <key>name</key>
-      <value>""</value>
+      <value>IF</value>
     </param>
     <param>
       <key>nconnections</key>
@@ -1627,7 +1627,7 @@
     </param>
     <param>
       <key>name</key>
-      <value>""</value>
+      <value>bit stream</value>
     </param>
     <param>
       <key>nconnections</key>
