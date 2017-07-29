@@ -11,3 +11,5 @@ Keep it simple, stupid OFDM protocol.
  * 256 subcarriers per symbol
  * IFFT
  * 1/4 Guard Inteval
+
+https://github.com/drom/transceiver/blob/master/kiss-ofdm.grc
