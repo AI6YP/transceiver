@@ -1,4 +1,4 @@
-# Transceiver
+# Protocol
 
 Keep it simple, stupid OFDM protocol.
 
