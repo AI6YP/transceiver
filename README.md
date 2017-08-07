@@ -43,3 +43,6 @@ http://sdr.osmocom.org
 https://github.com/mossmann/hackrf
 
 http://www.analog.com/media/en/technical-documentation/technical-articles/JESD204B-Survival-Guide.pdf
+
+https://www.csun.edu/~skatz/katzpage/sdr_project/sdr/
+
