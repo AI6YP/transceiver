@@ -28,7 +28,7 @@ RF transceiver related bookmark
 |--------|-----------|-----------|------------|------------|--------|--------|---------|---|-----------|
 | MAX5864 | | | | 10M | 1x8 | 1x10 | 48QFN | [9](http://www.digikey.com/product-detail/en/maxim-integrated/MAX5864ETM%2B/MAX5864ETM%2B-ND/1779247) | [maxim](https://www.maximintegrated.com/en/products/analog/data-converters/analog-front-end-ics/MAX5864.html) |
 | MAX1003 | | | | 90M | 2x6 | | TSSOP-36 | [8](https://www.digikey.com/short/q7t351) | [maxim](http://datasheets.maximintegrated.com/en/ds/MAX1003.pdf)
-| ADS4145 | | | |     |     | |          | [62] | http://www.ti.com/lit/ds/symlink/ads4145.pdf
+| ADS4145 | | | |     |     | |          | [62] | [ti](http://www.ti.com/lit/ds/symlink/ads4145.pdf)
 
 ## bookmarks
 
