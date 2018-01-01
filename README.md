@@ -36,6 +36,7 @@ RF transceiver related bookmark
 |----------|-----|------|-----------|---------|---|------------|
 | ADC1613D | 125 | 2x16 | JESD204A  | HVQFN56 | [20](https://www.digikey.com/short/qq1j1c) | [idt](http://www.idt.com/document/dst/adc1613d-ser-datasheet) |
 | ADC16DV160 | 160 | 2x16 | LVDS | VQFN68 | [100](https://www.digikey.com/short/qq1pj9) | [ti](http://www.ti.com/lit/ds/symlink/adc16dv160.pdf) |
+| ADC32J44 | 125 | 2x14 | JESD204B | VQFN48 | [50](https://www.digikey.com/short/qq1pn7) | [ti](http://www.ti.com/product/ADC32J44/datasheet) |
 | ADS42JBx9  | 250 | 2x16 | JESD204B | VQFN64 | [208](https://www.digikey.com/short/qq1pzv) | [ti](http://www.ti.com/lit/ds/symlink/ads42jb69.pdf) |
 | MCP37D31 | 200 |   16 | P, LVDS   | TFBGA-121 | [100](https://www.digikey.com/short/qq1p31) | [microchip](http://ww1.microchip.com/downloads/en/DeviceDoc/20005322D.pdf) |
 
