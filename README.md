@@ -27,8 +27,20 @@ RF transceiver related bookmark
 | device | F<sub>min | F<sub>max | BW<sub>min | BW<sub>max | ADC IQ | DAC IQ | Package | $ | Datasheet |
 |--------|-----------|-----------|------------|------------|--------|--------|---------|---|-----------|
 | MAX5864 | | | | 10M | 1x8 | 1x10 | 48QFN | [9](http://www.digikey.com/product-detail/en/maxim-integrated/MAX5864ETM%2B/MAX5864ETM%2B-ND/1779247) | [maxim](https://www.maximintegrated.com/en/products/analog/data-converters/analog-front-end-ics/MAX5864.html) |
-| MAX1003 | | | | 90M | 2x6 | | TSSOP-36 | [8](https://www.digikey.com/short/q7t351) | [maxim](http://datasheets.maximintegrated.com/en/ds/MAX1003.pdf)
-| ADS4145 | | | |     |     | |          | [62](https://www.digikey.com/short/qtd9qq) | [ti](http://www.ti.com/lit/ds/symlink/ads4145.pdf)
+| MAX1003 | | | | 90M | 2x6 | | TSSOP-36 | [8](https://www.digikey.com/short/q7t351) | [maxim](http://datasheets.maximintegrated.com/en/ds/MAX1003.pdf) |
+| ADS4145 | | | |     |     | |          | [62](https://www.digikey.com/short/qtd9qq) | [ti](http://www.ti.com/lit/ds/symlink/ads4145.pdf) |
+
+## ADC
+
+| device   | Fs  | bit  | Interface | Package | $ | Datascheet |
+|----------|-----|------|-----------|---------|---|------------|
+| ADC1613D | 125 | 2x16 | JESD204A  | HVQFN56 | [20](https://www.digikey.com/short/qq1j1c) | [idt](http://www.idt.com/document/dst/adc1613d-ser-datasheet) |
+| ADC16DV160 | 160 | 2x16 | LVDS | VQFN68 | [100](https://www.digikey.com/short/qq1pj9) | [ti](http://www.ti.com/lit/ds/symlink/adc16dv160.pdf) |
+| MCP37D31 | 200 |   16 | P, LVDS   | TFBGA-121 | [100](https://www.digikey.com/short/qq1p31) | [microchip](http://ww1.microchip.com/downloads/en/DeviceDoc/20005322D.pdf) |
+
+
+
+## DAC
 
 ## bookmarks
 
