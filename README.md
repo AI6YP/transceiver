@@ -40,6 +40,7 @@ RF transceiver related bookmark
 | ADS42JBx9  | 250 | 2x16 | JESD204B | VQFN64 | [208](https://www.digikey.com/short/qq1pzv) | [ti](http://www.ti.com/lit/ds/symlink/ads42jb69.pdf) |
 | ADS5562 | 80 | 16 | LVDS | VQFN48 | [70](https://www.digikey.com/short/qq1pvz) | [ti](http://www.ti.com/lit/ds/symlink/ads5562.pdf) |
 | AD9467  | 250 | 16 | LVDS | LFCSP72 | [175](https://www.digikey.com/short/q83dmz) | [adi](http://www.analog.com/media/en/technical-documentation/data-sheets/AD9467.pdf) |
+| AD9655 | 125 | 2x16 | LVDS | LFSCP32 | [210](https://www.digikey.com/short/q830jj) | [adi](http://www.analog.com/media/en/technical-documentation/data-sheets/AD9655.pdf) |
 | AD9656 | 125 | 4x16 | JESD204B | LFSCP56 | [355](https://www.digikey.com/short/q8308m) | [adi](http://www.analog.com/media/en/technical-documentation/data-sheets/AD9656.pdf) |
 | MCP37D31 | 200 |   16 | P, LVDS   | TFBGA-121 | [100](https://www.digikey.com/short/qq1p31) | [microchip](http://ww1.microchip.com/downloads/en/DeviceDoc/20005322D.pdf) |
 
